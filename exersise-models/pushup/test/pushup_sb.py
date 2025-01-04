@@ -57,7 +57,7 @@ def pushup_tracker():
     # Initialize Mediapipe Pose
     mp_pose = mp.solutions.pose
     mp_drawing = mp.solutions.drawing_utils
-    pose = mp_pose.Pose(min_detection_confidence=0.5, min_tracking_confidence=0.5)
+    pose = mp_pose.Pose(min_detection_confidence=0.8, min_tracking_confidence=0.8)
 
     # Push-up counter & stage
     pushup_counter = 0
