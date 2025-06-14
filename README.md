@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b4ead910-eb0f-4907-9914-31e97b079abe" width="500" />
-  <img src="https://github.com/user-attachments/assets/b2cb7955-b91b-4f49-854b-909a9534c03e" width="284" />
+<!--  <img src="https://github.com/user-attachments/assets/b2cb7955-b91b-4f49-854b-909a9534c03e" width="284" /> -->
 </p>
 
 <!-- 
